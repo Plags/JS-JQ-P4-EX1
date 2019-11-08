@@ -1,0 +1,20 @@
+#shifu{
+  margin-left: 50%;
+  font-size: 3em;
+  margin-top: 175px;
+  background-color: #bf0000;
+  border-color: #690000;
+  color: #9697a2;
+  border-radius: 50px;
+}
+#deroll{
+  margin-left: 50%;
+  font-size: 3em;
+  background-color: #bf0000;
+  border-color: #690000;
+  color:#9697a2;
+  border-radius: 50px;
+}
+body{
+  background-color: #9697a2
+}
